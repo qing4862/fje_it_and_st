@@ -1,0 +1,16 @@
+{
+    "icon_families": {
+        "poker": {
+            "middle_node_icon": "♢",
+            "leaf_node_icon": "♤"
+        },
+        "default": {
+            "middle_node_icon": "",
+            "leaf_node_icon": ""
+        },
+        "star": {
+            "middle_node_icon": "★",
+            "leaf_node_icon": "☆"
+        }
+    }
+}
